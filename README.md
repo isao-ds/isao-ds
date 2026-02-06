@@ -29,5 +29,30 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 
+## 🛠 Інструменти та навички
+
+### Мови та інструменти
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
+
+### Бібліотеки
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-9E3F8F?logo=plotly&logoColor=white)
+
+### BI та візуалізація
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
+
+### Бази даних
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlecloud&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 
