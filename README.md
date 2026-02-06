@@ -29,4 +29,5 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 
+<img width="128" height="128" alt="15331770" src="https://github.com/user-attachments/assets/0ab18a4f-1b84-4f69-8118-b68c05ea379f" />
 
