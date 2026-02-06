@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-<b>I’m Andrii</b>, a data analyst focused on Python, SQL, Excel and BI tools, and modern AI platforms.  
+<b>I’m Andrii</b>, a data analyst focused on Python, SQL, Excel, BI tools, and modern AI platforms.  
 Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
 My goal is to transform data into clear insights and professional business solutions.  
 <b>I am open to collaboration and new opportunities.</b>
