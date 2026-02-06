@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Junior Data Analyst with experience in analyzing complex datasets and transforming data into actionable insights. Proficient in Excel, Google Sheets, SQL, and basic Python (Pandas, NumPy), with hands-on experience in data visualization using Looker, Tableau, and Power BI. Motivated to grow in data analytics and support data-driven decision-making.
+
 ### Мій стек технологій
 ![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue) 
