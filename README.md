@@ -36,4 +36,7 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-2471A3?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-BA4A00?style=for-the-badge)
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
-
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-4CAF50?style=for-the-badge)
