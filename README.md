@@ -18,74 +18,58 @@ Here are some ideas to get you started:
 Junior Data Analyst with experience in analyzing complex datasets and transforming data into actionable insights. Proficient in Excel, Google Sheets, SQL, and basic Python (Pandas, NumPy), with hands-on experience in data visualization using Looker, Tableau, and Power BI. Motivated to grow in data analytics and support data-driven decision-making.
 
 ### Мій стек технологій
-
-
-## 🛠 Інструменти та навички
-
-### Мови та інструменти
-
-### Бібліотеки
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-9E3F8F?logo=plotly&logoColor=white)
-
-### BI та візуалізація
-
-
-### Бази даних
-
-
-
-
-
-### 🛠 Languages & Tools
-
 ## 🛠 Навички та інструменти
 
-![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge)
-![R](https://img.shields.io/badge/R-black?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
-![Excel](https://img.shields.io/badge/EXCEL-black?style=for-the-badge)
-![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-black?style=for-the-badge)
+### Мови та інструменти
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
-![Pandas](https://img.shields.io/badge/PANDAS-black?style=for-the-badge)
-![NumPy](https://img.shields.io/badge/NUMPY-black?style=for-the-badge)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-black?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/SEABORN-black?style=for-the-badge)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-black?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PYTORCH-black?style=for-the-badge)
+### Python-бібліотеки
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-9E3F8F?style=for-the-badge&logo=plotly&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-![Tableau](https://img.shields.io/badge/TABLEAU-black?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/POWER%20BI-black?style=for-the-badge)
-![Looker Studio](https://img.shields.io/badge/LOOKER%20STUDIO-black?style=for-the-badge)
+### BI та візуалізація
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-![BigQuery](https://img.shields.io/badge/BIGQUERY-black?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge)
-![Snowflake](https://img.shields.io/badge/SNOWFLAKE-black?style=for-the-badge)
-![Redshift](https://img.shields.io/badge/REDSHIFT-black?style=for-the-badge)
+### Бази даних
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Redshift](https://img.shields.io/badge/Redshift-8C1C13?style=for-the-badge&logo=amazonredshift&logoColor=white)
 
-![ETL](https://img.shields.io/badge/ETL-black?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/DATA%20CLEANING-black?style=for-the-badge)
-![EDA](https://img.shields.io/badge/EDA-black?style=for-the-badge)
-![KPI](https://img.shields.io/badge/KPI-black?style=for-the-badge)
-![Business Metrics](https://img.shields.io/badge/BUSINESS%20METRICS-black?style=for-the-badge)
-![A/B Testing](https://img.shields.io/badge/A%2FB%20TESTING-black?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/DATA%20VISUALIZATION-black?style=for-the-badge)
-![Dashboard Design](https://img.shields.io/badge/DASHBOARD%20DESIGN-black?style=for-the-badge)
+### Практики та методи
+![ETL](https://img.shields.io/badge/ETL-FF5733?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C3483?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-1ABC9C?style=for-the-badge)
+![KPI](https://img.shields.io/badge/KPI-2E86C1?style=for-the-badge)
+![Business Metrics](https://img.shields.io/badge/Business%20Metrics-117A65?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-CA6F1E?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-884EA0?style=for-the-badge)
+![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-2471A3?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge)
-![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-black?style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20CODE-black?style=for-the-badge)
-![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-black?style=for-the-badge)
+### Інструменти розробки
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
-![Statistics](https://img.shields.io/badge/STATISTICS-black?style=for-the-badge)
-![Probability](https://img.shields.io/badge/PROBABILITY-black?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-black?style=for-the-badge)
-![Data Storytelling](https://img.shields.io/badge/DATA%20STORYTELLING-black?style=for-the-badge)
-![Business Communication](https://img.shields.io/badge/BUSINESS%20COMMUNICATION-black?style=for-the-badge)
+### Теорія та комунікація
+![Statistics](https://img.shields.io/badge/Statistics-34495E?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-5D6D7E?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2874A6?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-BA4A00?style=for-the-badge)
+![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
 
