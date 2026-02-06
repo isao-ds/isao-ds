@@ -18,25 +18,11 @@ Here are some ideas to get you started:
 Junior Data Analyst with experience in analyzing complex datasets and transforming data into actionable insights. Proficient in Excel, Google Sheets, SQL, and basic Python (Pandas, NumPy), with hands-on experience in data visualization using Looker, Tableau, and Power BI. Motivated to grow in data analytics and support data-driven decision-making.
 
 ### Мій стек технологій
-![HTML](https://img.shields.io/badge/-HTML-333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333?style=for-the-badge&logo=css3&logoColor=blue) 
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=GitHub)
-![PHP](https://img.shields.io/badge/-PHP-333?style=for-the-badge&logo=PHP)
-![Wordpress](https://img.shields.io/badge/-Wordpress-333?style=for-the-badge&logo=Wordpress&logoColor=blue)
-![MySQL](https://img.shields.io/badge/-MySQL-333?style=for-the-badge)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-333?style=for-the-badge)  
-![Photoshop](https://img.shields.io/badge/-Photoshop-333?style=for-the-badge&logo=Photoshop)
 
 
 ## 🛠 Інструменти та навички
 
 ### Мови та інструменти
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)  
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?logo=googlesheets&logoColor=white)
 
 ### Бібліотеки
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)  
@@ -45,35 +31,61 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![Seaborn](https://img.shields.io/badge/Seaborn-9E3F8F?logo=plotly&logoColor=white)
 
 ### BI та візуалізація
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?logo=google&logoColor=white)
+
 
 ### Бази даних
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?logo=googlecloud&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 
-![Python](https://img.shields.io/badge/-Python-000?logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
-![Tableau](https://img.shields.io/badge/-Tableau-000?logo=tableau)
+
+
 
 ### 🛠 Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) 
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
 
-![Python](https://img.shields.io/badge/-Python-000?logo=python)
-![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
-![Tableau](https://img.shields.io/badge/-Tableau-000?logo=tableau)
+## 🛠 Навички та інструменти
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-black?style=for-the-badge)
+![R](https://img.shields.io/badge/R-black?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+![Excel](https://img.shields.io/badge/EXCEL-black?style=for-the-badge)
+![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-black?style=for-the-badge)
+
+![Pandas](https://img.shields.io/badge/PANDAS-black?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NUMPY-black?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-black?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/SEABORN-black?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-black?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-black?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PYTORCH-black?style=for-the-badge)
+
+![Tableau](https://img.shields.io/badge/TABLEAU-black?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/POWER%20BI-black?style=for-the-badge)
+![Looker Studio](https://img.shields.io/badge/LOOKER%20STUDIO-black?style=for-the-badge)
+
+![BigQuery](https://img.shields.io/badge/BIGQUERY-black?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MYSQL-black?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MONGODB-black?style=for-the-badge)
+![Snowflake](https://img.shields.io/badge/SNOWFLAKE-black?style=for-the-badge)
+![Redshift](https://img.shields.io/badge/REDSHIFT-black?style=for-the-badge)
+
+![ETL](https://img.shields.io/badge/ETL-black?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/DATA%20CLEANING-black?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-black?style=for-the-badge)
+![KPI](https://img.shields.io/badge/KPI-black?style=for-the-badge)
+![Business Metrics](https://img.shields.io/badge/BUSINESS%20METRICS-black?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB%20TESTING-black?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/DATA%20VISUALIZATION-black?style=for-the-badge)
+![Dashboard Design](https://img.shields.io/badge/DASHBOARD%20DESIGN-black?style=for-the-badge)
+
+![Git](https://img.shields.io/badge/GIT-black?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/JUPYTER-black?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20CODE-black?style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/GOOGLE%20COLAB-black?style=for-the-badge)
+
+![Statistics](https://img.shields.io/badge/STATISTICS-black?style=for-the-badge)
+![Probability](https://img.shields.io/badge/PROBABILITY-black?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/MACHINE%20LEARNING-black?style=for-the-badge)
+![Data Storytelling](https://img.shields.io/badge/DATA%20STORYTELLING-black?style=for-the-badge)
+![Business Communication](https://img.shields.io/badge/BUSINESS%20COMMUNICATION-black?style=for-the-badge)
+
