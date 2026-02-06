@@ -20,44 +20,21 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Copilot-107C10?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### Практики та методи
 ![ETL](https://img.shields.io/badge/ETL-FF5733?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C3483?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-34495E?style=for-the-badge)
 ![EDA](https://img.shields.io/badge/EDA-1ABC9C?style=for-the-badge)
 ![KPI](https://img.shields.io/badge/KPI-2E86C1?style=for-the-badge)
 ![Business Metrics](https://img.shields.io/badge/Business%20Metrics-117A65?style=for-the-badge)
 ![A/B Testing](https://img.shields.io/badge/A%2FB%20Testing-CA6F1E?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-5D6D7E?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-884EA0?style=for-the-badge)
 ![Dashboard Design](https://img.shields.io/badge/Dashboard%20Design-2471A3?style=for-the-badge)
-
-
-
-
-
-### Теорія та комунікація
-![Statistics](https://img.shields.io/badge/Statistics-34495E?style=for-the-badge)
-![Probability](https://img.shields.io/badge/Probability-5D6D7E?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2874A6?style=for-the-badge)
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-BA4A00?style=for-the-badge)
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
-
 
