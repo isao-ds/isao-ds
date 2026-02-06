@@ -55,4 +55,18 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
+![Tableau](https://img.shields.io/badge/-Tableau-000?logo=tableau)
+
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white) 
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white) 
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+![Python](https://img.shields.io/badge/-Python-000?logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000?logo=postgresql)
+![Tableau](https://img.shields.io/badge/-Tableau-000?logo=tableau)
+
 
