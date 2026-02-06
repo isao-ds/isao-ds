@@ -3,6 +3,7 @@
 I’m Andrii, a data analyst focused on Python, SQL, BI tools, and modern AI platforms.  
 Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
 My goal is to transform data into clear insights and professional business solutions.
+I am open to collaboration and new opportunities.
 
 ### My stack of technologies, methods and skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
