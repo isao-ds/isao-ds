@@ -1,6 +1,6 @@
 Junior Data Analyst with experience in analyzing complex datasets and transforming data into actionable insights. Proficient in Excel, Google Sheets, SQL, and basic Python (Pandas, NumPy), with hands-on experience in data visualization using Looker, Tableau, and Power BI. Motivated to grow in data analytics and support data-driven decision-making.
 
-### Мій стек технологій та навичок
+### My stack of technologies, methods and skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
