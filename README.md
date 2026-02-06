@@ -3,7 +3,7 @@
 I’m Andrii, a data analyst focused on Python, SQL, BI tools, and modern AI platforms.  
 Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
 My goal is to transform data into clear insights and professional business solutions.  
-<span style="color:#1E90FF">I am open to collaboration and new opportunities.</span>
+<b>I am open to collaboration and new opportunities.</b>
 
 ### My stack of technologies, methods and skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -44,17 +44,3 @@ My goal is to transform data into clear insights and professional business solut
 ![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-BA4A00?style=for-the-badge)
 ![Business Communication](https://img.shields.io/badge/Business%20Communication-1F618D?style=for-the-badge)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
-
-# 👋 Hi there!
-
-I’m Andrii, a data analyst focused on Python, SQL, BI tools, and modern AI platforms.  
-Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
-My goal is to transform data into clear insights and professional business solutions.  
-
-<p align="center">
-  <span style="color:#1E90FF"><b>I am open to collaboration and new opportunities.</b></span>
-</p>
-
-## 📬 Contacts
-
-
