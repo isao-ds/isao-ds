@@ -32,3 +32,6 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 <img width="128" height="128" alt="15331770" src="https://github.com/user-attachments/assets/0ab18a4f-1b84-4f69-8118-b68c05ea379f" />
 <img width="128" height="128" alt="919852" src="https://github.com/user-attachments/assets/f2d791d7-7c07-474f-8c8b-2e8229bf51fb" />
 
+<kbd> [Текст кнопки](https://link.com) </kbd>
+
+
