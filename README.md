@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Мой стек технологий
+HTML CSS SASS Bootstrap JavaScript jQuery Gulp
+Git GitHub PHP Wordpress MySQL phpMyAdmin
+Blender Unity Photoshop
