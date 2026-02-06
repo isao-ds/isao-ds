@@ -24,7 +24,6 @@ Junior Data Analyst with experience in analyzing complex datasets and transformi
 ![OpenAI GPT](https://img.shields.io/badge/GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic Claude](https://img.shields.io/badge/Claude-FF6F00?style=for-the-badge)
 ![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
 ![ETL](https://img.shields.io/badge/ETL-FF5733?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-6C3483?style=for-the-badge)
 ![Statistics](https://img.shields.io/badge/Statistics-34495E?style=for-the-badge)
