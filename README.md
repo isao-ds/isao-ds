@@ -1,4 +1,8 @@
-Junior Data Analyst with experience in analyzing complex datasets and transforming data into actionable insights. Proficient in Excel, Google Sheets, SQL, and basic Python (Pandas, NumPy), with hands-on experience in data visualization using Looker, Tableau, and Power BI. Motivated to grow in data analytics and support data-driven decision-making.
+# 👋 Hi there!
+
+I’m Andrii, a data analyst focused on Python, SQL, BI tools, and modern AI platforms.  
+Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
+My goal is to transform data into clear insights and professional business solutions.
 
 ### My stack of technologies, methods and skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
