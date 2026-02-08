@@ -1,11 +1,11 @@
-### EN: 👋 Hi there!
+### 👋 Hi there!
 
 <b>I’m Andrii</b>, a data analyst focused on Python, SQL, Excel, BI tools, and modern AI platforms.  
 Here you’ll find my projects in data analysis, dashboard creation, and business metrics.  
 My goal is to transform data into clear insights and professional business solutions.  
 <b>I am open to collaboration and new opportunities.</b>
 
-### EN: My stack of technologies, methods and skills
+### My stack of technologies, methods and skills
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
